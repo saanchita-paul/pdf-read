@@ -1,0 +1,104 @@
+[0] Date/Time : 11/09/2025 14:50:18
+[1] 
+[2] CHARTERING CONFIRMATION
+[3] 
+[4] TRANSALLIANCE TS LTD
+[5] SUITE 8/9 FARADAY COURT CENTRUM ONE HUNDRED GB-DE14 2WX BURTON UPON TRENT Tel : +44 1283735100 Fax: 1283734239 VAT NUM: GB712061386 Contact: TERESA HOPKINS Tel : +44 1291735100 E-mail : teresa.hopkins@transalliance.eu
+[6] 
+[7] REF.:1714403
+[8] (to note on your invoice)
+[9] Invoicing adress :
+[10] LTD TRANSALLIANCE TS UK 8-9 FARADAY COURT CENTRUM 100 GB-DE14-BURTON ON TRENT invoice.ts@transalliance.eu
+[11] 
+[12] SHIPPING PRICE 950,00 EUR Ex-tax
+[13] Diesel tax included
+[14] Payment terms : VIREMENT 60 J
+[15] 
+[16] Page: 1
+[17] Test Client 2
+[18] Rugiu G. 2 - VILNIAUS M. VILNIAUS M. SAV LT-01205 VILNIUS VILNIAUS APSKRITIS Contact: Tel : +37068532355 VAT NUM: LT100006699713
+[19] 
+[20] OTHER COSTS
+[21] 
+[22] Ex-tax
+[23] 
+[24] Tract.registr.: Trail.registr.:
+[25] 
+[26] Loading
+[27] 
+[28] ON: 17/09/25 8h00 - 15h00
+[29] 
+[30] OT : 105430
+[31] 
+[32] REFERENCE : TR5773 -
+[33] 
+[34] ICONEX
+[35] 
+[36] LM . . . :
+[37] 
+[38] 13,600
+[39] 
+[40] BAKEWELL RD
+[41] 
+[42] Parc. nb :
+[43] 
+[44] GB-PE2 6DP PETERBOROUGH
+[45] 
+[46] Pal. nb. :
+[47] 
+[48] Weight . : 24000,000
+[49] 
+[50] Contact:
+[51] 
+[52] Kgs. . . :
+[53] 
+[54] Tel :
+[55] 
+[56] M. nature: PAPER ROLLS
+[57] 
+[58] Instructions
+[59] WILL SEND BARCODE ONCE LOADED - BARCODE ALONG WITH THE GMR NEEDS TO BE SCANNED AT THE PORT OF EXIT, ANY INSTRUCTIONS TO FOLLOW THE ORANGE LANE MUST BE ADHERED TO.
+[60] 
+[61] Delivery
+[62] 
+[63] ON: 19/09/25
+[64] 
+[65] REFERENCE : TR5773 -
+[66] ICONEX FRANCE 10 RTE DES INDUSTRIES -37530 POCE-SUR-CISSE
+[67] 
+[68] Contact: Tel :
+[69] 
+[70] 7h00 - 13h00
+[71] 
+[72] LM . . . : Parc. nb : Pal. nb. : Weight . : Kgs. . . :
+[73] 
+[74] 13,600 24000,000
+[75] 
+[76] M. nature: PAPER ROLLS
+[77] 
+[78] OT : 105430
+[79] 
+[80] Observations :
+[81] 
+[82] CAUTION, FOLLOWINGS INTRUCTIONS SHOULD BE REALLY RESPECTED
+[83] IMPORTANT / Would you return this document signed, with note "Agreed to" prior signing,
+[84] with your commercial stamp and specify your company register.
+[85] 
+[86] Agreed to, thanks for return this document stamped.
+[87] 
+[88] ENGAGING A SUB AGENT IS STRICTLY FORBIDDEN. FAILURE TO COMPLY WITH PROCEDURES AND WITH LOADING AND/OR DELIVERY DATES AND TIMES WILL AUTOMATICALLY GIVE RISE TO PENALTIES. THE CARRIER CONFIRMS THAT H DOCUMENTS AND EQUIPEMENT REQUIRED BY THE VARRIOUS LAWS AND REGULATIONS, AND AGREES TO RESPECT THEM. THE EQUIPEMENT MUST BE CLEAN AND IN GOOD WORKING ORDER AND HE UNDERTAKES TO REPORT ANY INCIDENT W A 45 EUROS ADMINISTRATION FREE WILL BE CHARGED TO THE SUBCONTRACTOR SHOULD THEY BE HELD RESPONSIBLE FOR ANY CLAIM ARISING. THE SUBCONTRACTOR CONFIRMS THAT THEY HOLD THE NECESSARY INSURANCES, CIVIL UPON DEMAND. PALLETS : RETURNABLE PALETTES MUST BE EXCHANGED AT DEPARTURE POINT. IN THE CASE WHERE THE PALLETS ARE NOT RETURNED PRIOR TO INVOICING A CHARGE A 15EUROS (12,50GBP) WILL BE LEVIED FOR E ON THE INVOICE, THE PRICE MUST BE SHOWN NET OF VAT ATTACHING THE SIGNED CMR AND DELIVERY NOTE. IF BILLING IS BY WEIGHT (TON), THE EXACT TONNAGE MUST BE INVOICED. FUEL SURCHARGE, BELGIAN AND UK ROAD THE SUBCONTRACTOR UNDERTAKES TO BE RESPONSIBLE FOR THE SAFETY OF THE GOODS BETWEEN LOADING AND DELIVERY (PROTECTION AGAINST THEFT, MALICIOUS ACT...)
+[89] 
+[90] Customs Instructions Per Regime
+[91] Dependant on the instructions provided to you by your Transalliance contact and your chosen/agreed shipping route the following instructions must be adhered to;
+[92] Smartborder / Prelodged entry >
+[93] · An import barcode will be issued to you prior to shipping, this barcode MUST be scanned at the port of exit terminal to ensure customs processes begin during your transit
+[94] · Your driver must review the screens on the ferry during the crossing and follow instructions oGreen = OK to depart ferry port on arrival oOrange = Must follow orange lane and wait further instructions
+[95] Transit Document-T1 >
+[96] · You will be provided with an LRN, your driver must present themselves at an IBF with this reference to release the T1
+[97] · Your Transalliance contact will provide to you details of the EU closure location for the T1, this could be; oAt a 3rd party customs site on route to destination oAt final destination
+[98] · Your driver must arrive at the provided location to commence customs clearance, your driver must not arrive at final destination (unless instructed to do so) until this step has been completed
+[99] Inventory Linked >
+[100] · You will be provided with an EAD (export doc), this will be used for you to book and gain access to your ferry crossing
+[101] · On arrival at the port you need to provide to Transalliance your ENS ferry reference to allow customs clearance to begin
+[102] · Once clearance has been completed your trailer will be free to be collected
+[103] Failure to follow the instructions per regime in full may result in customs fines being issued which may be passed on to you, the carrier. It is our collective effort to prevent this from happening
